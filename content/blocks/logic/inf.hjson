@@ -1,0 +1,5 @@
+type: MemoryBlock
+name: Memory Chip
+description: Stores 16,384 units of data
+memoryCapacity: 16384
+category: logic

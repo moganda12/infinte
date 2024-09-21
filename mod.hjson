@@ -1,0 +1,8 @@
+name: Infinite
+displayName: Infinite
+author: "skyTheDragon"
+description: "dum"
+version:"go away"
+minGameVersion: 146
+dependencies: [ ]
+hidden: false
